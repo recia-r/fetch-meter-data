@@ -1,0 +1,10 @@
+{"snowflake-config":
+{"dbname":"WATERSIGNAL",
+  "table":"METER_DATA2",
+  "account-name":"account-name",
+  "warehouse":"COMPUTE_WH",
+  "user":"analytics",
+  "password":"password"},
+  "watersignal":
+  {"authkey":"authkey",
+    "meterids":[11111]}}
